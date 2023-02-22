@@ -1,6 +1,6 @@
 ---
 title: About
-heading: Join Grassroots-Parti.Africa (Grassroots Participatory Community Collective Africa)
+heading: Join Grassroots-Parti.Africa 
 layout: default
 ---
 
