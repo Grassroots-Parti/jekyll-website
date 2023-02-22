@@ -97,41 +97,8 @@ class Coop
 
   def self.all
     %w(
-      agile-collective.html
-      alpha-communication.html
-      animorph.html
-      aptivate.html
-      autonomic.html
-      blake-house-filmmakers-co-op.html
-      calverts.html
-      cbn.html
-      cetis-llp.html
-      chapel-street-studio.html
-      co-operative-web.html
-      creative-coop.html
-      dev-the-developers-society.html
-      digital-liberties.html
-      dot-project.html
-      dtc-innovation.html
-      fairmondo-uk.html
-      founders-and-coders.html
-      gildedsplinters.html
-      glowbox-design.html
-      go-free-range.html
-      graphics-coop.html
-      mc3.html
-      media-coop.html
-      mediablaze-hosts.html
-      netuxo.html
-      open-data-services.html
-      open-ecommerce.html
-      outlandish.html
-      secure-active-c-i-c.html
-      small-axe.html
-      tableflip.html
-      wave.html
-      we-are-open.html
-      webarchitects.html
+      sisonke-biotik.html
+      masakhane.html
     ).map do |page|
 
       fn = File.join(File.dirname(__FILE__), 'mirror', 'coops.tech.archived.website', 'co-op', page)
