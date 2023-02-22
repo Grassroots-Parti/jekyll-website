@@ -4,9 +4,10 @@ heading: Our Manifesto
 layout: default
 ---
 
- [join us][join].
+<iframe src="https://coda.io/embed/DPuLmHTBNm/_subnu?viewMode=embedplay" width=900 height=500 style="max-width: 100%;" allow="fullscreen"></iframe>
 
- [Join us][join].
+ [join us][join]
+
 
 [Co-operative Technologists]: /about
 [join]: /join
