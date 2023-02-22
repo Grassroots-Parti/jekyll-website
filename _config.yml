@@ -46,5 +46,5 @@ defaults:
     type: technologies
   values:
     layout: technology
-forum: https://community.coops.tech/
+forum: 
 mapbox_access_token: pk.eyJ1IjoiY290ZWNoIiwiYSI6ImNpemgxbzhwODAwMHMzM28zdXF3cGxyYmwifQ.9nPExuEUqwblCCl-6gyFXA
