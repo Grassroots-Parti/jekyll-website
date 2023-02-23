@@ -12,6 +12,7 @@ latitude:
 longitude: 
 clients: 
 - deep-learning-indaba
+- indabax-south-africa
 services: 
 technologies: 
 ---
