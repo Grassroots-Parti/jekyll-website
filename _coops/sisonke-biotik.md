@@ -13,6 +13,10 @@ longitude:
 clients: 
 - deep-learning-indaba 
 - indabax-south-africa
+- rail-lab
+- wits-health-innovation
+- des-lab
+- fruitpunch-ai
 services: 
 technologies: 
 ---

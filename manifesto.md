@@ -4,8 +4,7 @@ heading: Our Manifesto
 layout: default
 ---
 
-
- [join us][join]
+Coming soon! 
 
 
 [Co-operative Technologists]: /about
