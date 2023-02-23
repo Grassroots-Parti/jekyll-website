@@ -1,4 +1,4 @@
 ---
 title: Deep Learning Indaba 
-website: https://deeplearningindaba.com/2023/
+website: https://deeplearningindaba.com
 ---
