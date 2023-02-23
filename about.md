@@ -5,6 +5,8 @@ layout: default
 ---
 
 
+
+
 [manifesto]: /manifesto
 [contact]: /#contact
 [join]: /join
