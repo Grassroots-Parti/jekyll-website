@@ -1,7 +1,7 @@
 ---
 title: SisonkeBiotik
 name: SisonkeBiotik
-members: 300
+members: 150`
 website: https://www.sisonkebiotik.africa/
 email: sisonkebiotik@gmail.com
 twitter: SBiotik
