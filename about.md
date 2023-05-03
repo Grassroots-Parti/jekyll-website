@@ -4,7 +4,7 @@ heading: Join Grassroots-Parti.Africa
 layout: default
 ---
 
-
+Coming soon =D
 
 
 [MMoU]: /manifesto

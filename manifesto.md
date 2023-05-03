@@ -8,7 +8,7 @@ The Grassroots Participatory Community Collective Africa, also known as Grassroo
 
 There some required criteria and agreements for membership as well as some optional / opt-in membership agreements.
 
-# Required Membership Criteria and Agreement
+# Required Membership Criteria and Agreements
 1. Any GCP globally that is trying to solve problems in Africa is welcome to apply for membership. Acceptance of a membership application is decided democratically where each existing GCP member of the collective has equal voting power.
 2. Each member GPC agrees to explore practices of mutual support toward maintaining and increasing the general health of the collective's GPC ecosystem.
 3. Each member GPC agrees to participate in the collective while adhering the principals and values of the collective. The principals and values are 
