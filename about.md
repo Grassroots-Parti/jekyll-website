@@ -7,6 +7,6 @@ layout: default
 
 
 
-[manifesto]: /manifesto
+[MMoU]: /manifesto
 [contact]: /#contact
 [join]: /join

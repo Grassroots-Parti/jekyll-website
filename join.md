@@ -6,4 +6,4 @@ append_email_form: true
 ---
 
 [about]: /about
-[manifesto]: /manifesto
+[MMoU]: /manifesto
